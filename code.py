@@ -1,0 +1,2 @@
+print('vinay')
+print('vishnu'')
